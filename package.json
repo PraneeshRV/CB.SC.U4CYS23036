@@ -8,7 +8,7 @@
     "fs": "^0.0.1-security",
     "nodemon": "^3.1.14"
   },
-  "name": "backend",
+  "name": "CB.SC.U4CYS23036",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
